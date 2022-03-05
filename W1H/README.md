@@ -17,7 +17,7 @@ The Homwework has been submmitted by 03/05/22
 
 ## URL Required
 
-This homework is 
+This homework is published at https://prsoto.github.io/homework-weekly-delivery/
 
 
 
